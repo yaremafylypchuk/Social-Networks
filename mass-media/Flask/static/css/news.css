@@ -1,0 +1,114 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-nav
+{
+    float:right;
+    list-style: none;
+    margin-top: 30px;
+}
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+}
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+.logo img
+{
+    width: 230px;
+    height: auto;
+    float: left;
+}
+/* 
+{
+  box-sizing: border-box;
+} */
+
+/* Style inputs */
+input[type=date], select, textarea {
+  height: auto;
+    width: auto;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  resize: vertical;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+  border-radius: 15px;
+  background-color: darkred;
+  padding: 10px;
+    opacity: 75%;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+    opacity: 100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+    opacity: 0.2;
+}
+body
+
+{
+  background-image:
+              linear-gradient(rgba(150, 203, 247, 0.788),rgba(255, 255, 255, 0.5)),url("ukr_map.gif");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h2
+{
+    color: white;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+}

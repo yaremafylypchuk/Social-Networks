@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "Firefighters struggle to control fires near Chernobyl",
+            "description": "Firefighters in Ukraine are working to bring forest fires under control in the area around the former Chernobyl nuclear power plant.",
+            "url": "https://www.rte.ie/news/newslens/2020/0413/1130261-chernobyl/",
+            "urlToImage": "https://img.rasset.ie/00141c0a-1600.jpg",
+            "publishedAt": "2020-04-13T14:57:29Z",
+            "content": "Firefighters in Ukraine are working to bring forest fires under control in the area around the former Chernobyl nuclear power plant.\r\nThe plant was the site of the world's worst nuclear accident in 1986.\r\nThe blaze has burned through over 3,000 hectares in a … [+1158 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "Virus fears keep Orthodox Easter worshippers at home",
+            "description": "More than 260 million Orthodox Christians celebrated Easter Sunday, with church leaders asking worshippers to stay at home to avoid spreading Covid-19.",
+            "url": "https://www.rte.ie/news/2020/0419/1132413-orthodox-easter-coronavirus/",
+            "urlToImage": "https://img.rasset.ie/00142da4-1600.jpg",
+            "publishedAt": "2020-04-19T07:50:46Z",
+            "content": "More than 260 million Orthodox Christians celebrated Easter Sunday, with church leaders asking worshippers to stay at home to avoid spreading Covid-19.\r\nOrthodox Christians, the world's third-largest group of Christian believers, this year celebrate Easter a … [+4185 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Conor Gallagher",
+            "title": "Flight repatriating US citizens makes emergency landing at Dublin",
+            "description": "Severely ill passenger met by ambulance and taken to hospital",
+            "url": "https://www.irishtimes.com/news/ireland/irish-news/flight-repatriating-us-citizens-makes-emergency-landing-at-dublin-1.4231571",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4231570&origw=620",
+            "publishedAt": "2020-04-17T13:57:26Z",
+            "content": "An aircraft repatriating American citizens from eastern Europe was forced to make an emergency landing at Dublin Airport on Thursday morning after one of the passengers fell ill over the Atlantic.\r\nFlight OAE6210, a Boeing 767, was travelling to Washington DC… [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "Eimear Lowe",
+            "title": "'The pandemic is hitting very hard' - ICRC chief",
+            "description": "As countries around the world grapple with the devastating effects of Covid-19, the ICRC's new DG, Robert Mardini, tells Eimear Lowe that for many people this pandemic is just \"one additional mortal threat\".",
+            "url": "https://www.rte.ie/news/world/2020/0506/1136829-icrc-chief-covid-19-hitting-hard/",
+            "urlToImage": "https://img.rasset.ie/00144fd9-1600.jpg",
+            "publishedAt": "2020-05-07T05:05:12Z",
+            "content": "As countries around the world grapple with the devastating effects of Covid-19, the ICRC's new DG, Robert Mardini, tells Eimear Lowe that for many people this pandemic is just \"one additional mortal threat\".\r\nWhen Robert Mardini was appointed as the new Direc… [+10189 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Dave Lee",
+            "title": "Uber to cut 3,700 jobs due to coronavirus hit",
+            "description": "Car-booking company announces it will reduce corporate headcount by 14 per cent",
+            "url": "https://www.irishtimes.com/business/transport-and-tourism/uber-to-cut-3-700-jobs-due-to-coronavirus-hit-1.4246807",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4246806&origw=1440",
+            "publishedAt": "2020-05-06T19:40:30Z",
+            "content": "Uber is to cut 3,700 jobs, roughly 14 per cent of its corporate workforce, blaming the drop in business because of coronavirus.\r\nIn a staff memo seen by the Financial Times, chief executive Dara Khosrowshahi warned additional cuts would be announced in due co… [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Daniel McLaughlin",
+            "title": "Ukraine wary of Russian aid offer for quarantined Kiev monastery",
+            "description": "Anger over war deepened by church's reluctance to follow lockdown rules",
+            "url": "https://www.irishtimes.com/news/world/europe/ukraine-wary-of-russian-aid-offer-for-quarantined-kiev-monastery-1.4238431",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4238430&origw=1440",
+            "publishedAt": "2020-04-26T16:00:00Z",
+            "content": "A Russian request to send aid to a historic Kiev monastery that is under coronavirus quarantine has drawn wary and angry responses in Ukraine, where religious affairs are entwined with the six-year conflict between the two states.\r\nThe Kiev authorities have s… [+2949 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Derek Scally",
+            "title": "Coronabond debate shifts Berlin from caution to pragmatism",
+            "description": "Merkel ready to show solidarity but Italy’s proposals raise the hackles of German voters",
+            "url": "https://www.irishtimes.com/news/world/europe/coronabond-debate-shifts-berlin-from-caution-to-pragmatism-1.4235255",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4235302&origw=960",
+            "publishedAt": "2020-04-22T19:00:00Z",
+            "content": "Before EU leaders log on to their virtual European Council meeting on Thursday, all eyes will be on chancellor Angela Merkel when she addresses the Bundestag.\r\nThe German leader is no stranger to crises. Whether dealing with Ukraine, refugees or the euro, her… [+3110 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "The Irish Times",
+            "title": "Michael O’Neill steps down as Northern Ireland manager",
+            "description": "Spell has ended after eight-and-a-half years with O’Neill focusing on role at Stoke",
+            "url": "https://www.irishtimes.com/sport/soccer/international/michael-o-neill-steps-down-as-northern-ireland-manager-1.4235102",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4235101&origw=1440",
+            "publishedAt": "2020-04-22T12:45:31Z",
+            "content": "Michael ONeill has stepped down as Northern Ireland manager after eight-and-a-half years in the role.\r\nA mutual decision was made for ONeill to leave his position due to proposed revised international match scheduling by Uefa in light of the coronavirus pande… [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Daniel McLaughlin",
+            "title": "Ukraine puts out major wildfires in Chernobyl exclusion zone",
+            "description": "Kiev says radiation level is normal, and the defunct nuclear plant is not threatened",
+            "url": "https://www.irishtimes.com/news/world/europe/ukraine-puts-out-major-wildfires-in-chernobyl-exclusion-zone-1.4228919",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4228917&origw=1440",
+            "publishedAt": "2020-04-14T18:13:58Z",
+            "content": "Ukraine says it has put out wildfires that erupted near the decommissioned Chernobyl nuclear power plant and ignited fears over the possible release of radioactivity dispersed during its infamous 1986 meltdown.\r\nFire crews have fought for 10 days to stop flam… [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Daniel McLaughlin",
+            "title": "Eastern Europe fears Orthodox Easter could fuel Covid-19 surge",
+            "description": "Some clerics and believers baulk at church closures and ban on Easter rituals",
+            "url": "https://www.irishtimes.com/news/world/europe/eastern-europe-fears-orthodox-easter-could-fuel-covid-19-surge-1.4230601",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4230597&origw=1440",
+            "publishedAt": "2020-04-16T14:44:32Z",
+            "content": "Millions of people across eastern Europe and the Balkans are being urged to stay away from church and large gatherings when they mark Orthodox Easter this weekend, as some clerics gripe about rules imposed to fight the coronavirus outbreak.\r\nLeaders across th… [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Sorcha Pollak",
+            "title": "‘I will never 100 per cent belong in Ireland’",
+            "description": "New to the Parish: Teresa Buczkowska arrived in Ireland from Cracow in 2005",
+            "url": "https://www.irishtimes.com/life-and-style/people/i-will-never-100-per-cent-belong-in-ireland-1.4236309",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4236308&origw=1440",
+            "publishedAt": "2020-04-29T05:00:00Z",
+            "content": "Teresa Buczkowska was 10 when her mother and four siblings moved into a shared apartment in a town outside Cracow, in Poland. The town, which had been constructed during the 1970s Communist era to house factory workers, consisted of a few apartment blocks and… [+6375 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "The Irish Times",
+            "title": "Wildfires around Chernobyl could stir up radiation, authorities fear",
+            "description": "Hundreds of firefighters tackle blazes that have swept through more than 8,600 acres",
+            "url": "https://www.irishtimes.com/news/world/europe/wildfires-around-chernobyl-could-stir-up-radiation-authorities-fear-1.4227215",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4227213&origw=1440",
+            "publishedAt": "2020-04-12T12:30:31Z",
+            "content": "Firefighters have struggled to control wildfires burning through radioactive forest in the abandoned territory around the Chernobyl nuclear plant, where radiation levels are considerably lower than they were immediately after the 1986 accident but still pose … [+3970 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "Anthony Pyne",
+            "title": "Alternative greatest Ireland XI: The centre-midfielders",
+            "description": "We're asking you to help us choose a Republic of Ireland XI made up of the best players we've had who never played at a major international tournament. Today, we pick the men in the middle.",
+            "url": "https://www.rte.ie/sport/soccer/2020/0418/1132336-alternative-greatest-ireland-xi-the-centre-midfielders/",
+            "urlToImage": "https://img.rasset.ie/00142cf2-1600.jpg",
+            "publishedAt": "2020-04-26T08:36:17Z",
+            "content": "The Republic of Ireland have been blessed with some terrific footballers over the decades, many of whom have earned iconic status with their heroics at World Cups and European Championships.\r\nBut what of the talented players who never got the chance to grace … [+8431 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": null,
+            "title": "German sex workers struggle amid Covid-19 lockdown",
+            "description": "Sex workers in Germany say they face financial ruin during the Covid-19 pandemic, as brothels remain shut and many are excluded from emergency funds to help small businesses and sole traders. \nProstitution is a legal profession in Germany, with sex workers ab…",
+            "url": "https://www.irishtimes.com/news/world/europe/german-sex-workers-struggle-amid-covid-19-lockdown-1.4248823",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4248821&origw=1440",
+            "publishedAt": "2020-05-08T18:50:12Z",
+            "content": "Sex workers in Germany say they face financial ruin during the Covid-19 pandemic, as brothels remain shut and many are excluded from emergency funds to help small businesses and sole traders.\r\nProstitution is a legal profession in Germany, with sex workers ab… [+357 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "The Irish Times",
+            "title": "How I explore now: The travel writers who can’t leave home",
+            "description": "Shilpa Ganatra: ‘Oaxaca in Mexico, Madagascar and Belize are now at the top of the list’ This weekend, I was meant to be soaking in the sun in the Dominican Republic, reviewing the Grand Palladium Hotel. Instead, I find myself locked down in Harrow, the Londo…",
+            "url": "https://www.irishtimes.com/life-and-style/travel/how-i-explore-now-the-travel-writers-who-can-t-leave-home-1.4218093",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4225024&origw=2553",
+            "publishedAt": "2020-04-11T05:00:00Z",
+            "content": "This weekend, I was meant to be soaking in the sun in the Dominican Republic, reviewing the Grand Palladium Hotel. Instead, I find myself locked down in Harrow, the London suburb thats become the epicentre of the UK coronavirus crisis. Not quite the break I h… [+13992 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Naomi O’Leary",
+            "title": "Governments across Europe examining how to ease out of lockdown",
+            "description": "EU to announce guidelines on exiting lockdown, including recommendations so states that share borders can have consistent policies",
+            "url": "https://www.irishtimes.com/news/world/europe/governments-across-europe-examining-how-to-ease-out-of-lockdown-1.4228967",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4228963&origw=1440",
+            "publishedAt": "2020-04-14T19:37:18Z",
+            "content": "Governments across Europe are examining how to ease out of lockdowns imposed to curb the spread of coronavirus while minimising the risks of new outbreaks.\r\nAustria, France and Denmark have announced plans to gradually reopen some schools, shops and businesse… [+14332 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": "Naomi O’Leary",
+            "title": "Governments across Europe examining how to exit lockdown",
+            "description": "EU to announce guidelines, including recommendations for states sharing borders",
+            "url": "https://www.irishtimes.com/news/world/europe/governments-across-europe-examining-how-to-exit-lockdown-1.4228967",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4228963&origw=1440",
+            "publishedAt": "2020-04-14T19:37:18Z",
+            "content": "Governments across Europe are examining how to ease out of lockdowns imposed to curb the spread of coronavirus while minimising the risks of new outbreaks.\r\nAustria, France and Denmark have announced plans to gradually reopen some schools, shops and businesse… [+14332 chars]"
+        },
+        {
+            "source": {
+                "id": "the-irish-times",
+                "name": "The Irish Times"
+            },
+            "author": null,
+            "title": "Emmanuel Macron interview: ‘We need to invent something new’",
+            "description": "“We are all embarking on the unthinkable,” says Emmanuel Macron, leaning forward at his desk in the Elysée Palace in Paris after an aide has cleaned the surface and the arms of his chair with a disinfectant wipe. Until now, Macron has always had a big plan fo…",
+            "url": "https://www.irishtimes.com/news/world/europe/emmanuel-macron-interview-we-need-to-invent-something-new-1.4231415",
+            "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4231412&origw=1440",
+            "publishedAt": "2020-04-17T10:01:46Z",
+            "content": "We are all embarking on the unthinkable, says Emmanuel Macron, leaning forward at his desk in the Elysée Palace in Paris after an aide has cleaned the surface and the arms of his chair with a disinfectant wipe.\r\nUntil now, Macron has always had a big plan for… [+11 chars]"
+        }
+    ]
+}

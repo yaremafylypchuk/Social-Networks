@@ -1,0 +1,128 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0px;
+  background: linear-gradient(rgba(150, 203, 247, 0.788),rgba(255, 255, 255, 0.5)),url("white_back.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+/* {
+    margin: 0;
+    padding: 0;
+} */
+
+.main-nav
+{
+    float:right;
+    list-style: none;
+    margin-top: 30px;
+}
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+}
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    font-style: italic;
+  text-align: center;
+
+
+}
+h1
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+}
+h2
+{
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    font-style: oblique;
+}
+
+.logo img
+{
+    width: 230px;
+    height: auto;
+    float: left;
+}
+h3
+{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.logo img
+{
+    width: 230px;
+    height: auto;
+    float: left;
+}

@@ -1,0 +1,214 @@
+{
+    "status": "ok",
+    "totalResults": 16,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Reuters",
+            "title": "Fire raging near Ukraine's Chornobyl poses radiation risk, activists warn",
+            "description": "A huge forest fire in Ukraine that has been raging for more than a week is now just one kilometer from the defunct Chornobyl nuclear power plant and poses a radiation risk, Greenpeace Russia warned on Monday, citing satellite images.",
+            "url": "https://www.cbc.ca/news/technology/ukraine-forest-fire-chornobyl-radition-1.5530992",
+            "urlToImage": "https://i.cbc.ca/1.5531004.1586807181!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-chernobyl-fire.JPG",
+            "publishedAt": "2020-04-13T20:13:26Z",
+            "content": "A huge forest fire in Ukraine that has been raging for more than a week is now just one kilometer from the defunct Chornobyl nuclear power plant and poses a radiation risk, Greenpeace Russia warned on Monday, citing satellite images.\r\nUkraine's Emergency Situ… [+2490 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Salimah Shivji",
+            "title": "Canada shifts its UN Security Council campaign pitch in response to pandemic",
+            "description": "With the United Nations poised to announce whether the vote on non-permanent Security Council seats will go ahead as scheduled in June, Canada is doubling down on its bid for a seat — and adjusting its pitch to take the COVID-19 crisis into account.",
+            "url": "https://www.cbc.ca/news/politics/un-security-council-pandemic-canada-trudeau-1.5556149",
+            "urlToImage": "https://i.cbc.ca/1.5461160.1581528749!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/senegal-canada.jpg",
+            "publishedAt": "2020-05-05T21:00:00Z",
+            "content": "With the United Nations poised to announce whether the vote on non-permanent Security Council seats will go ahead as scheduled in June, Canada is doubling down on its bid for a seat and adjusting its pitch to take the COVID-19 crisis into account.\r\nPrime Mini… [+5243 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Levon Sevunts",
+            "title": "100 days after, the families of Flight 752 victims refuse to be forgotten",
+            "description": "One hundred days after his wife and nine-year-old daughter, along with 174 other passengers on Ukraine International Airlines Flight 752, died in a ball of fire in the clear night sky over Tehran, Hamed Esmaeilion still wakes up at night tormented by question…",
+            "url": "https://www.cbc.ca/news/politics/iran-flight-752-canadians-air-crash-1.5537022",
+            "urlToImage": "https://i.cbc.ca/1.5530270.1586702158!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/iran-plane-crash.jpg",
+            "publishedAt": "2020-04-17T23:55:18Z",
+            "content": "One hundred days after his wife and nine-year-old daughter  along with the 174 other passengers on Ukraine International Airlines Flight 752 died in a ball of fire in the clear night sky over Tehran, Hamed Esmaeilion still wakes up at night tormented by quest… [+4646 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Mike Blanchfield",
+            "title": "Iran chief's link to 1988 massacre raises obstacles in crash probe: Cotler",
+            "description": "Canada's quest for compensation from Iran for shooting down a Ukrainian airliner is fraught with obstacles because Tehran's lead investigator is a mass executioner who belongs in prison, says a former Canadian justice minister.",
+            "url": "https://www.cbc.ca/news/politics/iran-plane-tehran-investigator-1.5555284",
+            "urlToImage": "https://i.cbc.ca/1.5555289.1588633290!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-iran-crash-20200504.jpg",
+            "publishedAt": "2020-05-04T23:20:12Z",
+            "content": "Canada's quest for compensation from Iran for shooting down a Ukrainian airliner is fraught with obstacles because Tehran's lead investigator is a mass executioner who belongs in prison, says a former Canadian justice minister. \r\n\"A person, who in fact should… [+4696 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Justin Amash, who left Republican Party, poised for presidential run as Libertarian",
+            "description": "Congressman Justin Amash of Michigan said late Tuesday that he is launching an exploratory committee for the 2020 Libertarian Party's presidential nomination.",
+            "url": "https://www.cbc.ca/news/world/amash-libertarian-president-1.5549197",
+            "urlToImage": "https://i.cbc.ca/1.5549262.1588178789!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2020-amash.jpg",
+            "publishedAt": "2020-04-29T17:25:55Z",
+            "content": "Congressman Justin Amash of Michigan said late Tuesday that he is launching an exploratory committee for the 2020 Libertarian Party's presidential nomination.\r\nThe Republican-turned-independent said on Twitter that the U.S. is ready for new leadership. He als… [+3232 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Ashley Burke",
+            "title": "Canada postpones download of Flight 752 black boxes indefinitely",
+            "description": "Canada told Iran this week to hold off indefinitely from travelling to Europe to download and analyze the much-anticipated flight recorders recovered from the wreckage of downed Flight 752 that killed dozens of Canadians.",
+            "url": "https://www.cbc.ca/news/politics/covid-19-delays-flight-752-black-box-download-1.5530116",
+            "urlToImage": "https://i.cbc.ca/1.5452119.1580858690!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/iran-plan-crash-black-boxes-flight-recorders-flight-752-flight-ps752.JPG",
+            "publishedAt": "2020-04-12T08:00:00Z",
+            "content": "Canada told Iran this week to hold off indefinitely from going forward with the much-anticipated download and analysis of flight recorders recovered from the wreckage of downed Flight 752 that killed dozens of Canadians. \r\nHassan Rezaeifar, the head of the Ir… [+3682 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Reuters",
+            "title": "Australia to pursue coronavirus investigation at World Health Assembly",
+            "description": "Australia will push for an international investigation into the coronavirus pandemic at next month's annual meeting of the World Health Assembly, the decision-making body of the World Health Organization, its prime minister said on Thursday.",
+            "url": "https://www.cbc.ca/news/world/australia-who-coronavirus-pandemic-investigation-1.5542172",
+            "urlToImage": "https://i.cbc.ca/1.5406099.1576978415!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1193407075.jpg",
+            "publishedAt": "2020-04-23T13:18:51Z",
+            "content": "Australia will push for an international investigation into the coronavirus pandemic at next month's annual meeting of the World Health Assembly, the decision-making body of the World Health Organization (WHO), its prime minister said on Thursday.\r\nAustralia … [+3917 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Coronavirus: What's happening in Canada and around the world Thursday",
+            "description": "Manitoba unveiled its own phased plan for reopening some sectors of the economy amid the coronavirus pandemic, joining provinces as small as Prince Edward Island and as large as hard-hit Ontario and Quebec in offering a glimpse of what the coming months might…",
+            "url": "https://www.cbc.ca/news/canada/coronavirus-covid19-april30-canada-world-1.5549172",
+            "urlToImage": "https://i.cbc.ca/1.5550315.1588241681!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1211292504.jpg",
+            "publishedAt": "2020-04-30T11:40:34Z",
+            "content": "The latest:\r\nManitoba unveiled its own phased plan for reopening some sectors of the economy amid the coronavirus pandemic, joining provinces as small as Prince Edward Island and as large as hard-hit Ontario and Quebec in offering a glimpse of what the coming… [+11969 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Vaccine agency director says he was shuffled out by White House for political reasons",
+            "description": "The head of a U.S. government agency combatting the coronavirus pandemic alleged Wednesday that he was ousted for opposing politically connected efforts to promote a malaria drug that President Donald Trump touted without proof as a remedy for COVID-19.",
+            "url": "https://www.cbc.ca/news/world/us-bright-whistleblower-hydroxychloroquine-1.5542131",
+            "urlToImage": "https://i.cbc.ca/1.5542150.1587642986!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak-trump.jpg",
+            "publishedAt": "2020-04-23T13:15:59Z",
+            "content": "The head of a U.S. government agency combatting the coronavirus pandemic is alleging that he was ousted for opposing politically connected efforts to promote a malaria drug that President Donald Trump touted without proof as a remedy for COVID-19.\r\nRick Brigh… [+6679 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": null,
+            "title": "What Michael Flynn’s case reveals about the U.S. justice system - The Globe and Mail",
+            "description": "<ol><li>What Michael Flynn’s case reveals about the U.S. justice system  The Globe and Mail\r\n</li><li>Trump praises Barr for dropping Flynn's Trump-Russia case  CTV News\r\n</li><li>Justice Department drops criminal case against Michael Flynn  CNN\r\n</li><li>The…",
+            "url": "https://www.theglobeandmail.com/world/us-politics/article-what-michael-flynns-case-reveals-about-the-us-justice-system/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/oaUwmXFE2xdY9ri1tM0o1fjVp7w=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5XXY2SMAFBLSXE3B5ZOCW5FH2U.JPG",
+            "publishedAt": "2020-05-09T01:23:37Z",
+            "content": "In the Oval Office Thursday, U.S. President Trump claimed without evidence that the prosecution of Michael Flynn, seen here on Dec. 18, 2018, was part of a conspiracy by the former Obama administration to take down Mr. Trump.\r\nTOM BRENNER/The New York Times N… [+7507 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Levon Sevunts",
+            "title": "Beijing's pandemic response is China's 'Chornobyl moment,' critics say",
+            "description": "China is getting its own \"Chornobyl moment\" due to Beijing's attempts to hide and distort key scientific data on the COVID-19 pandemic and its crackdown on whistleblowers questioning the government's response to the outbreak, say the authors of an open letter…",
+            "url": "https://www.cbc.ca/news/politics/china-coronavirus-pandemic-covid-who-1.5531968",
+            "urlToImage": "https://i.cbc.ca/1.5486304.1583370112!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1205145364.jpg",
+            "publishedAt": "2020-04-14T20:37:15Z",
+            "content": "China is getting its own \"Chornobyl moment\" due to Beijing's attempts to hide and distort key scientific data on the COVID-19 pandemic and its crackdown on whistleblowers questioning the government's response to the outbreak, say the authors of an open letter… [+6105 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "Marianne Klowak",
+            "title": "No way for 98-year-old mother to get a bath after 'inhumane' cuts to home care visits, son says",
+            "description": "The Winnipeg Regional Health Authority updated its home-care visit priority in response to the COVID-19 pandemic. Case co-ordinators are notifiying clients which services will continue and which will be suspended indefinitely depending on a risk assessment.",
+            "url": "https://www.cbc.ca/news/canada/manitoba/dennis-michayluk-home-care-covid-pandemic-1.5534894",
+            "urlToImage": "https://i.cbc.ca/1.5535429.1587085066!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1513996730.jpg",
+            "publishedAt": "2020-04-17T10:00:00Z",
+            "content": "Dennis Michayluk is upset his 98-year-old mother is being left during the COVID-19 pandemic without the most basic care for personal hygiene  a bath.\r\nHis mother, Olga, lives in an assisted living block operated by Manitoba Housing.\r\nShe currently gets a visi… [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Coronavirus: Here's what's happening in the sports world on Monday",
+            "description": "Stay up to date on the latest on how the coronavirus outbreak is affecting sports around the globe.",
+            "url": "https://www.cbc.ca/sports/coronavirus-sports-may-4-1.5554458",
+            "urlToImage": "https://i.cbc.ca/1.5496639.1584112026!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-sports-graphic.jpg",
+            "publishedAt": "2020-05-04T15:20:46Z",
+            "content": "The latest on how the coronavirus outbreak is affecting sports around the globe:\r\n<ul><li>World swim championships moved to next May</li><li>Search on for new Euro gymnastics championships host</li><li>15 leagues join forces to recognize health care workers</… [+7356 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Fires near Chornobyl nuclear plant have been put out, Ukraine officials say",
+            "description": "Ukrainian emergency officials said Tuesday they have extinguished forest fires in the radiation-contaminated area near the Chornobyl nuclear power plant, but acknowledged that grass was still smouldering in some areas.",
+            "url": "https://www.cbc.ca/news/technology/fires-chornobyl-nuclear-plant-1.5532390",
+            "urlToImage": "https://i.cbc.ca/1.5531009.1586807656!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-chernobyl-fire.JPG",
+            "publishedAt": "2020-04-14T23:41:19Z",
+            "content": "Ukrainian emergency officials said Tuesday they have extinguished forest fires in the radiation-contaminated area near the Chornobyl nuclear power plant, but acknowledged that grass was still smouldering in some areas.\r\nHundreds of firefighters backed by airc… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Justin Lasola",
+            "title": "Mass for the Dead 20k Followers Sweepstakes",
+            "description": "Crunchyroll Flash Contest Mass for the Dead 20K Follower Sweepstakes Official Rules NO PURCHASE OR PAYMENT NECESSARY TO ENTER OR WIN. The following promotion is intended for participants in the United States (i.e. including Washington, D.C. and excluding Guam…",
+            "url": "http://feedproxy.google.com/~r/crunchyroll/rss/news/~3/qBCK9ymBYTQ/mass-for-the-dead-20k-followers-sweepstakes",
+            "urlToImage": null,
+            "publishedAt": "2020-04-14T18:38:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "U.S. states developing plans together to reopen are significant drivers of American economy",
+            "description": "New York's governor said Tuesday he wouldn't abide by any order from U.S. President Donald Trump to reopen his state in an unsafe manner during the coronavirus outbreak. New York and California, two of the three biggest states in terms of economic output, are…",
+            "url": "https://www.cbc.ca/news/world/us-states-coronavirus-tuesday-1.5531370",
+            "urlToImage": "https://i.cbc.ca/1.5531408.1586870485!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-coronavirus-usa.JPG",
+            "publishedAt": "2020-04-14T14:28:36Z",
+            "content": "New York Gov. Andrew Cuomo said on Tuesday he would not abide by any order from U.S. President Donald Trump to reopen his state in an unsafe manner during the coronavirus outbreak.\r\nTrump said on Monday he believed the president has \"total authority\" over sta… [+5269 chars]"
+        }
+    ]
+}

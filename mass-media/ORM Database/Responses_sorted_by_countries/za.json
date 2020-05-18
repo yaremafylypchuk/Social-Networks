@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "News24.com | International Covid-19 update: '6 killed by Kenyan police during lockdown', US to curb immigration",
+            "description": "A 13-year-old boy is one of six people in Kenya who have been killed in alleged police violence during the enforcement of a dusk-to-dawn curfew, and other Covid-19 news.",
+            "url": "https://www.news24.com/World/News/international-covid-19-update-6-killed-by-kenyan-police-during-lockdown-us-to-curb-immigration-20200422",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/10108/fddc51b444f9462e90debcc3a427187c.jpg",
+            "publishedAt": "2020-04-22T18:03:20Z",
+            "content": "A 13-year-old boy is one of six people in Kenya who have been killed in alleged police violence during the enforcement of a dusk-to-dawn curfew implemented to curb the spread of the new coronavirus, according to Human Rights Watch (HRW), Al Jazeera reports.\r\n… [+4494 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "News24.com | US failed to block UN resolution on equal access to any future coronavirus vaccine",
+            "description": "The UN General Assembly has demanded equal access for any future Covid-19 vaccine, but its seeming unanimity was a fluke. The United States in fact opposed the resolution but acted too late to stop it, diplomats say.",
+            "url": "https://www.news24.com/World/News/us-failed-to-block-un-resolution-on-equal-access-to-any-future-coronavirus-vaccine-20200422",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/4296/d9c351507d7a480594e8538e1fcfcdb6.jpg",
+            "publishedAt": "2020-04-22T09:10:27Z",
+            "content": "United Nations – The UN General Assembly has\r\ndemanded equal access for any future Covid-19 vaccine, but its seeming\r\nunanimity was a fluke. The United States in fact opposed the resolution but\r\nacted too late to stop it, diplomats say.\r\nThe 193 members of th… [+3643 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "News24.com | 117 million children face measles risk from Covid-19 response: UN",
+            "description": "Around 117 million children worldwide risk contracting measles because dozens of countries are curtailing their vaccination programmes as they battle Covid-19, the United Nations warns.",
+            "url": "https://www.news24.com/World/News/117-million-children-face-measles-risk-from-covid-19-response-un-20200414",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/8780/87eb835f40204c768e4b00a9248b5a92.jpg",
+            "publishedAt": "2020-04-14T17:53:34Z",
+            "content": "Around 117 million children worldwide risk contracting measles because dozens of countries are curtailing their vaccination programmes as they battle Covid-19, the United Nations warned on Tuesday. \r\nCurrently 24 countries, including several already dealing w… [+3212 chars]"
+        }
+    ]
+}

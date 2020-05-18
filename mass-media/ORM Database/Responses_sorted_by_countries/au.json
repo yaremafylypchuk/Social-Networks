@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Coronavirus restrictions dampen Orthodox Easter celebrations around world",
+            "description": "The holiest day of the year for Orthodox Christians is reserved and glum in many countries, with churches unable to hold traditional Easter services because of restrictions aimed at suppressing the spread of the coronavirus.",
+            "url": "https://www.abc.net.au/news/2020-04-20/coronavirus-restricts-easter-celebrations-orthodox-christians/12164240",
+            "urlToImage": "https://www.abc.net.au/news/image/12164616-16x9-700x394.jpg",
+            "publishedAt": "2020-04-20T02:03:17Z",
+            "content": "Posted \r\nApril 20, 2020 12:03:17\r\nThe holiest day of the year for Orthodox Christians has been reserved and glum in many countries, with churches unable to hold traditional Easter services because of restrictions aimed at suppressing the spread of the coronav… [+3988 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Irradiated fires threatening Chernobyl have now been extinguished, officials say",
+            "description": "Ten days after it was lit the forest fire that has been burning dangerously close to the site of the world's worst nuclear disaster, the Chernobyl nuclear plant, has been largely extinguished.",
+            "url": "https://www.abc.net.au/news/2020-04-15/fires-threatening-chernobyl-nuclear-power-plant-extinguished/12148606",
+            "urlToImage": "https://www.abc.net.au/news/image/12148614-16x9-700x394.jpg",
+            "publishedAt": "2020-04-14T16:31:18Z",
+            "content": "Posted \r\nApril 15, 2020 02:31:18\r\nA large forest fire that tore through the area surrounding the decommissioned Chernobyl nuclear power plant and raised radiation to dangerous levels in the area has now been extinguished, Ukrainian officials say.\r\nKey Points:… [+2831 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Radiation levels rise as fires burn near Chernobyl's former nuclear power plant",
+            "description": "Seen from the roof of Chernobyl's closed power plant, the forest fires burning through the site's Zone of Alienation has crews working through the night to block the blaze from reaching the site of the 1986 nuclear disaster.",
+            "url": "https://www.abc.net.au/news/2020-04-13/chernobyl-fires-crews-battle-contain-blaze-nuclear-power-plant/12144956",
+            "urlToImage": "https://www.abc.net.au/news/image/12145038-16x9-700x394.jpg",
+            "publishedAt": "2020-04-13T09:41:49Z",
+            "content": "Posted \r\nApril 13, 2020 19:41:49\r\nA photo taken from the roof of Chernobyl's old nuclear power plant has revealed how close the bushfires raging through Ukraine's forests are from the site of the 1986 nuclear disaster.\r\nKey points:\r\n<ul><li>Crews are working … [+3624 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Iran issues warning to US after 'provocative' naval encounter",
+            "description": "Iran says it will give a decisive response to any mistake by the United States in the Gulf, after the US military accuses Iran's Revolutionary Guards vessels of coming within 10 metres of its navy and Coast Guard ships.",
+            "url": "https://www.abc.net.au/news/2020-04-20/iran-revolutionary-guards-warn-us-navy-of-potential-response/12163414",
+            "urlToImage": "https://www.abc.net.au/news/image/12163434-16x9-700x394.jpg",
+            "publishedAt": "2020-04-19T16:42:59Z",
+            "content": "Posted \r\nApril 20, 2020 02:42:59\r\nIran's Revolutionary Guards warned the United States about its military activities in the Gulf, adding that the Iranian navy had as a result increased patrols, which would also secure the passage of Iranian ships and combat f… [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Coronavirus update: Elizabeth Warren's brother dies from COVID-19, 26 million jobless in US",
+            "description": "The WHO has said half of Europe's COVID-19 deaths have occurred in aged care homes, while Australian billionaire Clive Palmer has purchased millions of doses of hydroxychloroquine.",
+            "url": "https://www.abc.net.au/news/2020-04-24/coronavirus-update-australia-covid-19-warren-brother-us-jobs-who/12179212",
+            "urlToImage": "https://www.abc.net.au/news/image/12179814-16x9-700x394.jpg",
+            "publishedAt": "2020-04-23T17:04:58Z",
+            "content": "Updated \r\nApril 24, 2020 03:06:28\r\nUnited States Senator Elizabeth Warren announces her brother has died after testing positive for coronavirus, while the pandemic has left 26 million Americans out of work.\r\nThis story is being updated regularly throughout Fr… [+5375 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Max Walden",
+            "title": "An estimated 18,000 Australians remain internally displaced by Black Summer bushfires",
+            "description": "Tens of thousands of Australians were among an all-time high number of people internally displaced in their countries due to natural disasters and conflict in 2019, newly released data has shown.",
+            "url": "https://www.abc.net.au/news/2020-04-28/25,000-australians-among-50.8-million-internally-displaced/12194308",
+            "urlToImage": "https://www.abc.net.au/cm/rimage/11842092-16x9-large.jpg?v=3",
+            "publishedAt": "2020-04-28T08:48:20Z",
+            "content": "Tens of thousands of Australians were among an all-time high number of people internally displaced in their countries due to natural disasters and conflict in 2019, newly released data has shown.\r\n<ul><li>An estimated 18,000 Australians remain displaced after… [+4064 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "David Lipson",
+            "title": "Trump's coronavirus strategy gives him little responsibility and a lot of credit",
+            "description": "In a week when 2,500 Americans are dying every day from COVID-19, Donald Trump launches his plan for ending the nationwide lockdowns. And he's given it a catchy title with familiar cadence: Opening Up America Again, writes David Lipson.",
+            "url": "https://www.abc.net.au/news/2020-04-17/trumps-coronavirus-strategy-gives-him-a-lot-of-credit/12153764",
+            "urlToImage": "https://www.abc.net.au/news/image/12157094-16x9-700x394.jpg",
+            "publishedAt": "2020-04-17T01:04:24Z",
+            "content": "Posted \r\nApril 17, 2020 11:04:24\r\nIn a week when 2,500 Americans are dying every day from COVID-19, US President Donald Trump has launched his plan for ending the nationwide lockdowns.\r\nThe branding king has also given the strategy a catchy title with familia… [+7103 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emily Olson",
+            "title": "Sanders' relentless consistency was his strongest asset, and may well have been his downfall",
+            "description": "The Democratic socialist wanted America to listen to his ideas, so he ran for President again, this time with what looked like a clear shot. Here's how he still fell short to Joe Biden.",
+            "url": "https://www.abc.net.au/news/2020-04-09/how-bernie-sanders-lost-to-joe-biden/12135900",
+            "urlToImage": "https://www.abc.net.au/news/image/12136134-16x9-700x394.jpg",
+            "publishedAt": "2020-04-09T02:24:56Z",
+            "content": "Posted \r\nApril 09, 2020 12:24:56\r\nThe year was 1981. The place was Burlington, Vermont. And Bernard Sanders had just been elected the city's mayor by 10 votes, a race so close, and so full of novel ideas, that it drew national attention.\r\n\"The problem with th… [+9733 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": null,
+            "title": "Coronavirus update: Donald Trump asks if injecting disinfectant would 'clean' coronavirus",
+            "description": "The WHO has said half of Europe's COVID-19 deaths have occurred in aged care homes, while Australian billionaire Clive Palmer has purchased millions of doses of hydroxychloroquine.",
+            "url": "https://www.abc.net.au/news/2020-04-24/coronavirus-update-australia-covid-19-donald-trump-disinfectant/12179212",
+            "urlToImage": "https://www.abc.net.au/news/image/12180598-16x9-700x394.jpg",
+            "publishedAt": "2020-04-23T17:04:58Z",
+            "content": "Updated \r\nApril 24, 2020 10:18:03\r\nUnited States Senator Elizabeth Warren announces her brother has died after testing positive for coronavirus, while the pandemic has left 26 million Americans out of work.\r\nThis story is being updated regularly throughout Fr… [+11268 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Peter Lusted",
+            "title": "Saving Slutsk: The Australian fans helping a battling Belarusian football club survive",
+            "description": "Despairing the lack of sport around the globe, Adelaide man Shane Richardson and his mates stumbled upon a Belarus football team, FK Slutsk. Little did they know that just weeks later they would be helping the struggling club to survive.",
+            "url": "https://www.abc.net.au/news/2020-04-24/aussie-sports-fans-help-belarus-football-club-during-coronavirus/12178348",
+            "urlToImage": "https://www.abc.net.au/news/image/12178688-16x9-700x394.jpg",
+            "publishedAt": "2020-04-23T19:46:01Z",
+            "content": "Posted \r\nApril 24, 2020 05:46:01\r\nBored by the lack of sport around the globe, Adelaide man Shane Richardson and his mates stumbled upon a Belarusian football team, FK Slutsk.\r\nKey points:\r\n<ul><li>Aussie sports fans first noticed the Belarus team FK Slutsk b… [+4479 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Justin Lasola",
+            "title": "Mass for the Dead 20k Followers Sweepstakes",
+            "description": "Crunchyroll Flash Contest Mass for the Dead 20K Follower Sweepstakes Official Rules NO PURCHASE OR PAYMENT NECESSARY TO ENTER OR WIN. The following promotion is intended for participants in the United States (i.e. including Washington, D.C. and excluding Guam…",
+            "url": "http://feedproxy.google.com/~r/crunchyroll/rss/news/~3/qBCK9ymBYTQ/mass-for-the-dead-20k-followers-sweepstakes",
+            "urlToImage": null,
+            "publishedAt": "2020-04-14T18:38:09Z",
+            "content": null
+        }
+    ]
+}

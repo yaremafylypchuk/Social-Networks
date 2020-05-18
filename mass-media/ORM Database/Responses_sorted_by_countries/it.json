@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "football-italia",
+                "name": "Football Italia"
+            },
+            "author": "Football Italia staff",
+            "title": "Malinovskyi: 'I like the Premier League'",
+            "description": "Atalanta midfielder Ruslan Malinovskyi admitted he fancies the Premier League but claimed âthere are no conditions to talk about a transferâ.  \tLa Dea picked up the Ukraine international from KRC Genk last summer and the former Shakhtar Donetsk star has p…",
+            "url": "https://www.football-italia.net/152499/malinovskyi-i-premier-league",
+            "urlToImage": null,
+            "publishedAt": "2020-04-24T12:48:36Z",
+            "content": "Atalanta midfielder Ruslan Malinovskyi admitted he fancies the Premier League but claimed ‘there are no conditions to talk about a transfer’.\r\nLa Dea picked up the Ukraine international from KRC Genk last summer and the former Shakhtar Donetsk star has played… [+767 chars]"
+        },
+        {
+            "source": {
+                "id": "football-italia",
+                "name": "Football Italia"
+            },
+            "author": "Football Italia staff",
+            "title": "Gomez: 'We made Atalanta a big club'",
+            "description": "Alejandro ‘Papu’ Gomez reveals the moment he recognised Atalanta could become a big club and how Gian Piero Gasperini changed their mentality. “We started this incredible journey.”",
+            "url": "https://www.football-italia.net/152550/gomez-we-made-atalanta-big-club",
+            "urlToImage": null,
+            "publishedAt": "2020-04-25T18:44:53Z",
+            "content": "Alejandro ‘Papu’ Gomez reveals the moment he recognised Atalanta could become a big club and how Gian Piero Gasperini changed their mentality. “We started this incredible journey.”\r\nThe Argentina international just turned 32 and is in the form of his life, wi… [+1843 chars]"
+        }
+    ]
+}

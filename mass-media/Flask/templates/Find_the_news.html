@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Find The articles</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/news.css') }}">
+</head>
+<body>
+
+ <header>
+        <div class="row">
+              <div class="logo">
+              <img src="static/css/logo.svg">
+
+        </div>
+        <ul class="main-nav">
+            <li><a href="/">HOME</a> </li>
+            <li class="active"><a href="/news">FIND THE ARTICLES</a></li>
+            <li><a href="/results">THE RESULTS OF PROVIDED RESEARCH</a> </li>
+
+        </ul>
+        </div>
+</header>
+<div class="container">
+  <div style="text-align:center">
+    <h2>Please, set the parameters:</h2>
+  </div>
+  <div class="row">
+    <div class="column">
+      <form action="/register" method="post">
+        <label for="fname">From</label>
+        <input type="date" id="fname" name="start" placeholder="From">
+        <label for="lname">To</label>
+        <input type="date" id="lname" name="end" placeholder="To">
+        <label for="source">Source</label>
+        <select id="source" name="source">
+
+          <option disabled selected value="">Racing Sports Network</option>
+          <option value="BBC News">BBC</option>
+          <option value="Business Insider">Business Insider</option>
+          <option value="Independent">Independent</option>
+          <option value="The Times of India">The Times of India</option>
+          <option value="News24">News24</option>
+          <option value="The Hindu">The Hindu</option>
+          <option value="Google News">Google News</option>
+          <option value="The Irish Times">The Irish Times</option>
+          <option value="CBC News">CBC News</option>
+          <option value="ABC News (AU)">ABC News (AU)</option>
+          <option value="all">All</option>
+        </select>
+        <input type="submit" value="Search">
+      </form>
+    </div>
+  </div>
+</div>
+
+
+</body>
+<script>
+    document.querySelector('form').onsubmit = function() {
+        if (!document.querySelector('input').value){
+            alert('Необхідно вказати проміжок часу');
+            return false;
+        }
+        else if (!document.querySelector('select').value){
+            alert('Необхідно вибрати джерело');
+                    return false;
+            }
+            return true;
+    };
+</script>
+</html>

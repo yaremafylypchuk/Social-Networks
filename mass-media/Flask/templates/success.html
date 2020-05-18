@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="initial-scale=1, width=device-width">
+        <title>Our Project</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/list_of_news.css') }}">
+    </head>
+    <body>
+        {% block body %}{% endblock %}
+    <header>
+        <div class="row">
+        </div>
+    </header>
+
+    <ul>
+        {% for row in rows %}
+        <li>{{row[2]}}, {{row[3]}}: <a href="{{row[5]}}">{{row[4]}}</a></li>
+
+        {% endfor %}
+
+    </ul>
+    </body>
+
+</html>
+
+

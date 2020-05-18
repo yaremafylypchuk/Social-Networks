@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Our Project</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/results.css') }}">
+</head>
+<body>
+    <header>
+        <div class="row">
+              <div class="logo">
+              <img src="static/css/logo.svg">
+        </div>
+        <ul class="main-nav">
+            <li><a href="/">HOME</a> </li>
+            <li><a href="/news">FIND THE ARTICLES</a></li>
+            <li class="active"><a href="/results">THE RESULTS OF PROVIDED RESEARCH</a> </li>
+
+        </ul>
+
+        </div>
+
+    </header>
+
+    <div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <!-- <h2>INTRODUCTION</h2> -->
+      <p>Here you can see some analysis based on the information that you have already read. Enjoy!</p>
+    </div>
+    <div class="card">
+      <h2>On which day there was the biggest number of articles about Ukraine?</h2>
+      <!-- <h5></h5> -->
+      <img src="static/css/date.png" class="card-img-top">
+          <!-- <p>Я приїхав сюди не на похорон, синку</p> -->
+    </div>
+      <div class="card">
+      <h2>What news sources has published the biggest number of articles about Ukraine?</h2>
+      <!-- <h5>Title description</h5> -->
+      <img src="static/css/frequency.JPEG" class="card-img-top">
+          <!-- <p>Я приїхав сюди не на похорон, синку</p> -->
+    </div>
+      <div class="card">
+      <h2>What word the Western mass media has used the most when speaking about Ukraine?</h2>
+      <!-- <h5>Title description</h5> -->
+      <img src="static/css/words.png" class="card-img-top">
+          <!-- <p>Швидкість. Я швидкий.</p> -->
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
